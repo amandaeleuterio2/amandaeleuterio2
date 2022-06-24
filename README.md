@@ -5,7 +5,6 @@
   <a href="https://github.com/amandaeleuterio2">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandaeleuterio2&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaeleuterio2&layout=compact&langs_count=7&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaeleuterio2&layout=compact"/>
 </div>
   
   [![Top Langs]()](https://github.com/anuraghazra/github-readme-stats)
