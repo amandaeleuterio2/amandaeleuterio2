@@ -7,8 +7,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaeleuterio2&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
-  [![Top Langs]()](https://github.com/anuraghazra/github-readme-stats)
-  
 <div style="display: inline_block" align="center"><br>  
   <img align="center" alt="Amanda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Amanda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
